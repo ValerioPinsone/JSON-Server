@@ -10,5 +10,159 @@
   ],
   "profile": {
     "name": "typicode"
+  },
+  
+  "circolari":[
+  {
+
+  "records": [
+
+    {
+
+      "ciinId": 8,
+
+      "ciinCreato": "2023-04-14T15:10:23.133",
+
+      "ciinAggiornato": "2023-04-14T15:26:32.687",
+
+      "ciinComponenteId": 1,
+
+      "ciinComponenteTipoComponenteId": 1,
+
+      "ciinDataInizio": "2023-04-14T00:00:00",
+
+      "ciinDataFine": "2023-04-14T00:00:00",
+
+      "ciinDescrizioneSintetica": "string",
+
+      "ciinDescrizioneDettaglio": "string",
+
+      "ciinNumero": "string",
+
+      "ciinOggetto": "string",
+
+      "ciinDirezioneEmittente1": "string",
+
+      "ciinDirezioneEmittente2": "string",
+
+      "ciinDirezioneEmittente3": "string",
+
+      "ciinDirezioneEmittente4": "string",
+
+      "ciinDirezioneEmittente5": "string",
+
+      "ciinDirezioneEmittente6": "string",
+
+      "ciinSommario": "string",
+
+      "ciinAnno": 9999,
+
+      "ciinEnteEmittenteId": 1
+    },
+
+    {
+
+      "ciinId": 9,
+
+      "ciinCreato": "2023-04-14T15:25:53.643",
+
+      "ciinAggiornato": "2023-04-14T15:25:53.643",
+
+      "ciinComponenteId": 1,
+
+      "ciinComponenteTipoComponenteId": 1,
+
+      "ciinDataInizio": "2023-04-14T00:00:00",
+
+      "ciinDataFine": "2023-04-14T00:00:00",
+
+      "ciinDescrizioneSintetica": "string",
+
+      "ciinDescrizioneDettaglio": "string",
+
+      "ciinNumero": "string",
+
+      "ciinOggetto": "string",
+
+      "ciinDirezioneEmittente1": "string",
+
+      "ciinDirezioneEmittente2": "string",
+
+      "ciinDirezioneEmittente3": "string",
+
+      "ciinDirezioneEmittente4": "string",
+
+      "ciinDirezioneEmittente5": "string",
+
+      "ciinDirezioneEmittente6": "string",
+
+      "ciinSommario": "string",
+
+      "ciinAnno": 2021,
+
+      "ciinEnteEmittenteId": 1
+    },
+
+    {
+
+      "ciinId": 11,
+
+      "ciinCreato": "2023-04-17T17:19:48.003",
+
+      "ciinAggiornato": "2023-04-17T17:19:48.003",
+
+      "ciinComponenteId": 1,
+
+      "ciinComponenteTipoComponenteId": 1,
+
+      "ciinDataInizio": "2023-04-17T00:00:00",
+
+      "ciinDataFine": "2023-04-17T00:00:00",
+
+      "ciinDescrizioneSintetica": "string",
+
+      "ciinDescrizioneDettaglio": "string",
+
+      "ciinNumero": "string",
+
+      "ciinOggetto": "string",
+
+      "ciinDirezioneEmittente1": "string",
+
+      "ciinDirezioneEmittente2": "strings",
+
+      "ciinDirezioneEmittente3": "string",
+
+      "ciinDirezioneEmittente4": "string",
+
+      "ciinDirezioneEmittente5": "string",
+
+      "ciinDirezioneEmittente6": "string",
+
+      "ciinSommario": "string",
+
+      "ciinAnno": 0,
+
+      "ciinEnteEmittenteId": 1
+    }
+
+  ],
+
+  "paginator": {
+
+    "currentPage": 0,
+
+    "pageSize": 10,
+
+    "totalPages": 1,
+
+    "totalRows": 3,
+
+    "sortBy": "ciinId",
+
+    "orderType": "ASC"
   }
+
+}
+  ]
 }
